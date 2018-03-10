@@ -1,0 +1,6 @@
+﻿  manipulate_two_numbers.c
+c:\users\julia\desktop\cc\lab00\lab00\skeleton\manipulate_two_numbers.c(12): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "1" weist aber den Typ "uint16_t *" auf.
+  c:\users\julia\desktop\cc\lab00\lab00\skeleton\manipulate_two_numbers.c(12): note: Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
+c:\users\julia\desktop\cc\lab00\lab00\skeleton\manipulate_two_numbers.c(14): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "1" weist aber den Typ "uint16_t *" auf.
+  c:\users\julia\desktop\cc\lab00\lab00\skeleton\manipulate_two_numbers.c(14): note: Verwenden Sie ggf. "%hx" in der Formatzeichenfolge.
+  Project2.vcxproj -> C:\Users\julia\source\repos\skeleton\x64\Debug\Project2.exe
